@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+}
+
+form {
+    padding: 50px 20px;
+    background-color: #ededed;
+    margin: calc(25% + 100px);
+    margin-top: 70px;
+    padding-top: 28px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #000;
+    padding-bottom: 8px;
+}
+
+.boton-enviar {
+    color: #ededed;
+    margin: 10px;
+    padding: 10px 12px;
+    outline: none;
+    border: none;
+    background-color: red;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+
+.boton-enviar:hover {
+    background: #dfdfdf;
+    color: red;
+    transition: .5s;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+input {
+    outline: none;
+    padding: 5px;
+}
+
