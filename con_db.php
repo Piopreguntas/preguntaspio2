@@ -1,9 +1,9 @@
 <?php
 
-$host = "butftxz1cqtjjrvhu067-mysql.services.clever-cloud.com";
-$user = "uvl9crzyrowj4pdx";
-$password = "kK6UlUPix5oxZ8BK1U6F";
-$dbname = "butftxz1cqtjjrvhu067";
+$host = "bzzightk0e7oiucupj8l-mysql.services.clever-cloud.com";
+$user = "udcsqsigmccaisaf";
+$password = "udcsqsigmccaisaf";
+$dbname = "bzzightk0e7oiucupj8l";
 
 $conex = mysqli_connect($host, $user, $password, $dbname);
 
